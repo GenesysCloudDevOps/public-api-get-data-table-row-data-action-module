@@ -9,11 +9,7 @@
     "permissions": [
         "architect:datatable:view",
         "architect:datatableRow:view"
-    ],
-    "products": [
-        "Baseline channel-agnostic permissions for handling interactions",
-        "Communicate"
-    ],
+    ],    
     "documentation": [],
     "presentation": [
         {
