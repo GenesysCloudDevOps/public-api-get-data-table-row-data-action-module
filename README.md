@@ -1,1 +1,1 @@
-# public-api-get-generic-attribute-data-action-module
+# public-api-get-data-table-row-data-action-module
